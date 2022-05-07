@@ -69,7 +69,7 @@ public class Program {
 		
 		// cria um array do tipo String e inicie ele com vários nomes
 		// se o nome contém a letra "c"...
-		// muda o nome todo para CHIMPAZÉ
+		// muda o nome todo para CHIMPANZÉ
 		
 		String[] nomes1 = {"madalena", "gustavo", "agenor", "carlos", "givaldo", "carla"};
 		
